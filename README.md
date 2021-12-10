@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Module 5 Splash Page - Become a BBQ Master
 
 ## Supporting Scrimba
 
